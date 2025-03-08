@@ -1,0 +1,35 @@
+# jazmin
+#primer dimension tres cuidades {"Madrid", "Barcelona", "Sevilla"}
+#segunda dimension 7 dias de la semana 
+#tercera dimension temperaturas de cada cuidad 
+temperaturas ={
+[ #Madrid 
+    [ #semana 1
+      {"dia","lunes","temperatura":9°}
+      {"dia","martes","temperatura":12°}
+      {"dia","miercoles","teperatura":9°}
+      {"dia","jueves","temperatura":10°}
+      {"dia","viernes","teperatura":11°}
+      {"dia","sabado","temperatura":11.5°}
+      {"dia","domingo","temperatura":9°}
+[ #Barcelona
+   [ #semana 1
+     {"dia","lunes","temperatura":14°}
+     {"dia","martes","temperatura":13°}
+     {"dia","miercoles","temperatura":15°}
+     {"dia","jueves","temperatura":15°}
+     {"dia","viernes","temperatura":16°}
+     {"dia","sabado","temperatura":16°}
+     {"dia,"domingo","temperatura":10°}
+[ #Sevilla
+   [ #semana 1
+     {"dia","lunes","temperatura":15°}
+     {"dia","martes","temperatura":17°}
+     {"dia","miercoles","temperatura":17°}
+     {"dia","jueves","temperatura":15°}
+     {"dia","viernes","temperatura":16°}
+     {"dia","sabado","temperatura":16°}
+     {"dia","domingo","temperatura":14°}
+      
+      
+        

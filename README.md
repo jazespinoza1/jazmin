@@ -1,2 +1,0 @@
-# jazmin
-aprender mas 
